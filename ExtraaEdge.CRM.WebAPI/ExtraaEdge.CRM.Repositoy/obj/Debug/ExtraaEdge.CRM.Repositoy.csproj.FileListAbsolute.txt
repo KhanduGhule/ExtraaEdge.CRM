@@ -1,0 +1,6 @@
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Repositoy\bin\Debug\ExtraaEdge.CRM.Repositoy.exe.config
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Repositoy\bin\Debug\ExtraaEdge.CRM.Repositoy.exe
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Repositoy\bin\Debug\ExtraaEdge.CRM.Repositoy.pdb
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Repositoy\obj\Debug\ExtraaEdge.CRM.Repositoy.csprojAssemblyReference.cache
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Repositoy\obj\Debug\ExtraaEdge.CRM.Repositoy.exe
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Repositoy\obj\Debug\ExtraaEdge.CRM.Repositoy.pdb

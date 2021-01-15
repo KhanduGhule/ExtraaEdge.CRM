@@ -1,0 +1,17 @@
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\bin\Debug\netcoreapp3.0\appsettings.json
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\bin\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.exe
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\bin\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.deps.json
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\bin\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.runtimeconfig.json
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\bin\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.runtimeconfig.dev.json
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\bin\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\bin\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.pdb
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\obj\Debug\netcoreapp3.0\staticwebassets\ExtraaEdge.CRM.WebAPI.StaticWebAssets.Manifest.cache
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\obj\Debug\netcoreapp3.0\staticwebassets\ExtraaEdge.CRM.WebAPI.StaticWebAssets.xml
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\obj\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\obj\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.AssemblyInfoInputs.cache
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\obj\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.AssemblyInfo.cs
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\obj\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.RazorTargetAssemblyInfo.cache
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\obj\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.WebAPI\obj\Debug\netcoreapp3.0\ExtraaEdge.CRM.WebAPI.pdb
